@@ -1,1 +1,1 @@
-# AI-Powered-Visual-Generation-Tool-
+# AI-Powered-Visual-Generation-Tool
